@@ -2,10 +2,9 @@
 
 abstract class Animal
 {
-    public virtual void Move()
-    {
-        Console.WriteLine("L'animal marche.");
-    }
+    public abstract void Move();
+    
+
     public void Eat()
     {
         Console.WriteLine("L'animal mange.");
@@ -14,18 +13,18 @@ abstract class Animal
 
 abstract class Biped : Animal
 {
-    public override void Move()
-    {
-        Console.WriteLine("L'animal marche sur deux pattes.");
+    public override void Move(){
+        Console.WriteLine("L'animal bipède se deplace sur ses deux jambes ou pattes.");
     }
+    
 }
 
 abstract class Quadruped : Animal
 {
-    public override void Move()
-    {
-        Console.WriteLine("L'animal marche sur quatre pattes.");
+    public override void Move(){
+        Console.WriteLine("L'animal quadrupède se déplace à quattre pattes.");
     }
+    
 }
 
 class Human : Biped
