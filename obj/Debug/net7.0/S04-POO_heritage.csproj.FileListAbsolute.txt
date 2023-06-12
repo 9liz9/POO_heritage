@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/S04-POO_heritage.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/S04-POO_heritage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/S04-POO_heritage.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/S04-POO_heritage.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/S04-POO_heritage.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/bin/Debug/net7.0/S04-POO_heritage
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/bin/Debug/net7.0/S04-POO_heritage.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/bin/Debug/net7.0/S04-POO_heritage.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/bin/Debug/net7.0/S04-POO_heritage.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/bin/Debug/net7.0/S04-POO_heritage.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/S04-POO_heritage.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/refint/S04-POO_heritage.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/S04-POO_heritage.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/S04-POO_heritage.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/Debug/net7.0/ref/S04-POO_heritage.dll

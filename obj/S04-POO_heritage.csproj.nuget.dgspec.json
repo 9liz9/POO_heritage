@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/S04-POO_heritage.csproj": {}
+  },
+  "projects": {
+    "/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/S04-POO_heritage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/S04-POO_heritage.csproj",
+        "projectName": "S04-POO_heritage",
+        "projectPath": "/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/S04-POO_heritage.csproj",
+        "packagesPath": "/Users/lizmanresa/.nuget/packages/",
+        "outputPath": "/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S04-POO_heritage/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lizmanresa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
